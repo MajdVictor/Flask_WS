@@ -1,0 +1,1 @@
+This WS will be developed using Flask
